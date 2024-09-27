@@ -74,10 +74,6 @@ public class PlaneSeats {
         return seats;
     }
 
-
-
-
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -89,12 +85,5 @@ public class PlaneSeats {
         chooseSeat(plane1, scanner);
 
     }
-
-
-
-
-
-
-
 
 }
