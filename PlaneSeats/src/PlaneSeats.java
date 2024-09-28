@@ -77,7 +77,7 @@ public class PlaneSeats {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int rows = 7;
+        int rows = 10;
         int cols = 4;
 
         char[][] plane1 = createPlaneSeats(rows, cols);
